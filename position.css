@@ -1,0 +1,30 @@
+.sketch-container-1 {
+
+    display:absolute;
+    top: 0;
+    left: 0;
+    margin: 10px;
+}
+.sketch-container-2 {
+
+    display:absolute;
+    top: 0;
+    left: 500;
+    margin: 10px;
+}
+
+#holder1{
+    position: relative; /* Set position to relative */
+    width: 400px; /* Adjust width */
+    height: 500px; /* Adjust height */
+    margin: 50px auto; /* Center horizontally with a margin of 50px from the top */
+    place-self: center;
+}
+
+#holder2{
+    position: relative; /* Set position to relative */
+    width: 400px; /* Adjust width */
+    height: 500px; /* Adjust height */
+    /* Center horizontally with a margin of 50px from the top */
+place-self: center;
+} 
